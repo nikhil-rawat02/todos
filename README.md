@@ -1,4 +1,3 @@
-![page 1](https://github.com/nikhil-rawat02/todos/assets/117645790/5f228aa9-4683-4eb4-bce5-708dbfb1eec7)
 # home screen
 ![all tasks and on click on edit icon task3 changed](https://github.com/nikhil-rawat02/todos/assets/117645790/4dcda3b6-3842-48d4-a39d-dbc7880c1317)
 
