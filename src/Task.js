@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Button from './Button';
-import { AiTwotoneDelete, AiTwotoneEdit } from "react-icons/ai";
+import { AiTwotoneEdit, AiOutlineDelete } from "react-icons/ai";
 import { FcCheckmark } from "react-icons/fc";
 
 function Task({ task, setTask, seq, id, name, status }) {
@@ -80,7 +80,7 @@ function Task({ task, setTask, seq, id, name, status }) {
                                 style={{ cursor: 'pointer' }}
                             />
                     }
-                    < AiTwotoneDelete
+                    < AiOutlineDelete
                         size="1.5rem"
                         style={{ color: "red", cursor: 'pointer', marginLeft:'5px' }}
                         onClick={handleRemoveTask}
