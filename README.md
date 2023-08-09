@@ -1,7 +1,6 @@
 <h1> Todo Application</h1>
 # home screen
-![all tasks and on click on edit icon task3 changed](https://github.com/nikhil-rawat02/todos/assets/117645790/4dcda3b6-3842-48d4-a39d-dbc7880c1317)
-
+<img scr="https://github-production-user-asset-6210df.s3.amazonaws.com/117645790/254796822-4dcda3b6-3842-48d4-a39d-dbc7880c1317.png" alt="home screen">
 
 ### Deployed on Vercel
 [Todo-application-deploy]([https://gmail-clone-swart.vercel.app/](https://todos-khaki.vercel.app/))
