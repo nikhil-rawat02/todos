@@ -6,7 +6,7 @@
 
 
 ### Deployed on Vercel
-[Todo-application-deploy]([https://gmail-clone-swart.vercel.app/](https://todos-khaki.vercel.app/))
+[Todo-application-deploy](https://todos-khaki.vercel.app/)
 
 # recodings 
 https://github.com/nikhil-rawat02/todos/assets/117645790/c97978e2-ce52-4294-a930-8ac8531f1d92
