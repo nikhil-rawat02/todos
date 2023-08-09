@@ -1,5 +1,5 @@
 <h1> Todo Application</h1>
-# home screen
+### home screen
 ![home](https://github.com/nikhil-rawat02/todos/assets/117645790/23ff855d-2d48-43ee-9229-309e63406425)
 
 
