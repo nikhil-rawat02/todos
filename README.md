@@ -1,6 +1,9 @@
+<h1> Todo Application</h1>
 # home screen
 ![all tasks and on click on edit icon task3 changed](https://github.com/nikhil-rawat02/todos/assets/117645790/4dcda3b6-3842-48d4-a39d-dbc7880c1317)
 
+### Deployed on Vercel
+https://todos-khaki.vercel.app/
 # recodings 
 https://github.com/nikhil-rawat02/todos/assets/117645790/c97978e2-ce52-4294-a930-8ac8531f1d92
 
