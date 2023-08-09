@@ -1,6 +1,7 @@
 <h1> Todo Application</h1>
 # home screen
-<img scr="https://github-production-user-asset-6210df.s3.amazonaws.com/117645790/254796822-4dcda3b6-3842-48d4-a39d-dbc7880c1317.png" alt="home screen">
+![home](https://github.com/nikhil-rawat02/todos/assets/117645790/23ff855d-2d48-43ee-9229-309e63406425)
+
 
 ### Deployed on Vercel
 [Todo-application-deploy]([https://gmail-clone-swart.vercel.app/](https://todos-khaki.vercel.app/))
